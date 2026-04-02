@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { View, StyleSheet } from 'react-native';
 import { FAB, Portal, Dialog, Button, Text } from 'react-native-paper';
-import ChatView from "./ChatView";
+import ChatView from "./AIView";
 
 
 export default function App() {
